@@ -42,7 +42,7 @@ I want to clarify that I am not the original author of this script. When I initi
 
 # 方法1（建议）
 
-* 从[GitHub]下载文件(https://github.com/cjhdevact/IDM-Activation-Script-Chinese/archive/refs/heads/main.zip)
+* 从[GitHub下载文件](https://github.com/cjhdevact/IDM-Activation-Script-Chinese/archive/refs/heads/main.zip)
 * 右键单击下载的zip文件并解压缩
 * 在提取的文件夹中，运行名为`IAS.cmd`的文件
 * 您将看到激活选项，并按照屏幕上的说明进行操作。
